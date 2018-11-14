@@ -11,14 +11,14 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #0078D7;
-  background-color: #0078D7; }
+  background: #ecf0f1;
+  background-color: #ecf0f1; }
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 42px;
   font-weight: normal;
-  color: #fff; }
+  color: #2c3e50; }
 
 ::selection {
   color: #fff;
@@ -45,7 +45,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #fff;
+  color: #2c3e50;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
@@ -229,7 +229,7 @@ body {
  *********************************************/
 .reveal section img {
   margin: 15px 0px;
-  border: 0px solid #fff;
+  border: 0px solid #2c3e50;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
 .reveal section img.plain {
@@ -269,7 +269,7 @@ body {
  *********************************************/
 @media print {
   .backgrounds {
-    background-color: #0078D7; } }
+    background-color: #ecf0f1; } }
 
 .reveal .team figure {
   display: inline-flex;
