@@ -293,3 +293,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center; }
+  .reveal .events h2 a {
+    color: currentColor;
+    text-decoration: underline; }
